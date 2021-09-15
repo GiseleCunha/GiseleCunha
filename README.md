@@ -8,7 +8,8 @@
 
 - Por isso, muito dos repositórios presentes são testes! 🤖 
 
-- Meu nome é *Gisele Lopes da Cunha* Eu tenho 26 anos. 👍 
+- Meu nome é *Gisele Lopes da Cunha* 😸
+- Eu tenho 26 anos. 👍 
 
 - Eu sou formada em Engenharia de Produção. 👷‍♀️
 
