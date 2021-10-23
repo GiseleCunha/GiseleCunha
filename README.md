@@ -20,9 +20,8 @@
 <hr width = 100% align = right noshade >
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Giee" height="160" style="border-radius:50px;"src="https://github.com/GiseleCunha/NovaAula/blob/28ef5dd7f41a01390b2bb2e56ebac52aa805d61a/to_Readme/Capa_Gi.gif">
+ <img align="right" alt="Giee" height="160" style="border-radius:50px;"src="https://github.com/GiseleCunha/NovaAula/blob/28ef5dd7f41a01390b2bb2e56ebac52aa805d61a/to_Readme/Capa_Gi.gif">
 </div>
-<br>
 
 <div align="center">
   <a href="https://github.com/GiseleCunha">
