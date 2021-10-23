@@ -23,7 +23,7 @@
  <img align="right" alt="Giee" height="160" style="border-radius:50px;"src="https://github.com/GiseleCunha/NovaAula/blob/28ef5dd7f41a01390b2bb2e56ebac52aa805d61a/to_Readme/Capa_Gi.gif">
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/GiseleCunha">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GiseleCunha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiseleCunha&layout=compact&langs_count=7&theme=tokyonight"/>
