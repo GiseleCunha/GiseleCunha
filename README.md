@@ -7,7 +7,7 @@
  ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) 
  
 - Meu nome é *Gisele Lopes da Cunha* 😸
-- Eu tenho 26 anos. 👍 
+- Eu tenho 27 anos. 👍 
 
 - Eu sou formada em Engenharia de Produção. 👷‍♀️
 
@@ -18,10 +18,6 @@
 -  Desejo aprofundar meus conhecimentos na área e adquirir experiência como dev.
 
 <hr width = 100% align = right noshade >
-
-<div style="display: inline_block"><br>
- <img align="right" alt="GieeCunha" height="160" style="border-radius:50px;"src="https://github.com/GiseleCunha/ParaAlteracoes/blob/main/to_Readme/Capa_GiseleCunha.gif">
-</div>
 
 <div align="left">
   <a href="https://github.com/GiseleCunha">
