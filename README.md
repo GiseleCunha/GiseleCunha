@@ -7,7 +7,7 @@
  ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) 
  
 - Meu nome é *Gisele Lopes da Cunha* 😸
-- Eu tenho 27 anos. 👍 
+- Eu tenho 28 anos. 👍 
 
 - Eu sou formada em Engenharia de Produção. 👷‍♀️
 
