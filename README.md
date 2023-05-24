@@ -37,9 +37,5 @@
   <a href = "mailto:gisele.cunha1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giselelopesdacunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  <br>
- <hr width = 100% align = right noshade >
-
- 
-  ![Snake animation](https://github.com/GiseleCunha/GiseleCunha/blob/output/github-contribution-grid-snake.svg)
- 
+ <hr width = 100% align = right noshade > 
 </div>
