@@ -7,15 +7,15 @@
  ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) 
  
 - Meu nome é *Gisele Lopes da Cunha* 😸
-- Eu tenho 28 anos. 👍 
+- Eu tenho 29 anos. 👍 
 
 - Eu sou formada em Engenharia de Produção. 👷‍♀️
 
--  Me interessei pela área de tecnologia e estou fazendo minha segunda graduação. 🙋‍♀️ 
+-  Me interessei pela área de tecnologia e finalizei minha segunda graduação em 2023. 🙋‍♀️ 
 
 - *Gestão da Tecnologia da Informação*
 
--  Desejo aprofundar meus conhecimentos na área e adquirir experiência como dev.
+-  Desejo aprofundar meus conhecimentos na área de dados e adquirir experiência.
 
 <hr width = 100% align = right noshade >
 
